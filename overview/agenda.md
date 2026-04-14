@@ -24,15 +24,15 @@ one-liners for everyday automation.
 |  Schedule   |                      Event                       |   Location    |     Speaker     |
 | ----------: | ------------------------------------------------ | ------------- | --------------- |
 |   8:00-9:00 | Breakfast                                        | Center Hall B |                 |
-|   9:00-9:30 | Welcome to Summit                                | Center Hall B |                 |
-|  9:30-10:15 | DevOps in the Age of AI: Human Powered Evolution | Center Hall B |                 |
-| 10:15-10:30 | Break                                            | Center Hall B |                 |
+|   9:00-9:30 | Welcome to Summit                                | Room 404      |                 |
+|  9:30-10:15 | DevOps in the Age of AI: Human Powered Evolution | Room 404      |                 |
+| 10:15-10:30 | Break                                            | 4th floor     |                 |
 | 10:30-11:00 | OnRamp Welcome & Orientation                     | Room 409      | OnRamp Team     |
 | 11:00-12:00 | Get Started                                      | Room 409      | Mike F. Robbins |
 |  12:00-1:00 | Lunch                                            | Center Hall B |                 |
 |   1:00-2:00 | The Help System                                  | Room 409      | Mike F. Robbins |
 |   2:00-2:45 | Discovering Objects, Properties, and Methods     | Room 409      | Steven Judd     |
-|   2:45-3:00 | Break                                            | Center Hall B |                 |
+|   2:45-3:00 | Break                                            | 4th floor     |                 |
 |   3:00-4:30 | One-liners and the Pipeline                      | Room 409      | Steven Judd     |
 |   5:00-8:00 | Happy Hour Reception                             | Center Hall B |                 |
 
@@ -51,12 +51,12 @@ evening sessions from the main conference are available.
 | ----------: | ------------------------------------- | ----------------------- | --------------- |
 |   8:00-9:00 | Breakfast                             | Center Hall B           |                 |
 |   9:00-9:15 | Announcements                         | Center Hall B           |                 |
-|  9:15-10:15 | State of Infrastructure as Code (IaC) | Center Hall B           |                 |
-| 10:15-10:45 | Break                                 | Center Hall B           |                 |
+|  9:15-10:15 | State of Infrastructure as Code (IaC) | Room 404                |                 |
+| 10:15-10:45 | Break                                 | 4th floor               |                 |
 | 10:45-12:15 | Remoting & Automation at Scale        | Room 409                | Steven Judd     |
 |  12:15-1:15 | Lunch                                 | Center Hall B           |                 |
 |   1:15-2:45 | Scripting Fundamentals                | Room 409                | Mike F. Robbins |
-|   2:45-3:15 | Break                                 | Center Hall B           |                 |
+|   2:45-3:15 | Break                                 | 4th floor               |                 |
 |   3:15-5:00 | Source Control workshop               | Room 409                | Sean Wheeler    |
 |   5:15-7:30 | After dark sessions                   | See conference schedule |                 |
 
@@ -74,13 +74,13 @@ code using Pester. The day concludes with lightning demos.
 |  Schedule   |            Event             |        Location         |     Speaker     |
 | ----------: | ---------------------------- | ----------------------- | --------------- |
 |   8:00-9:00 | Breakfast                    | Center Hall B           |                 |
-|   9:00-9:15 | Announcements                | Center Hall B           |                 |
-|  9:15-10:15 | State of the Shell           | Center Hall B           |                 |
-| 10:15-10:45 | Break                        | Center Hall B           |                 |
+|   9:00-9:15 | Announcements                | Room 404                |                 |
+|  9:15-10:15 | State of the Shell           | Room 404                |                 |
+| 10:15-10:45 | Break                        | 4th floor               |                 |
 | 10:45-11:30 | Advanced Functions & Tooling | Room 409                | Mike F. Robbins |
-| 11:30-12:30 | Lunch                        | Center Hall B           |                 |
+| 11:30-12:30 | Lunch                        | 4th floor               |                 |
 |  12:30-2:15 | Script Modules               | Room 409                | Mike F. Robbins |
-|   2:15-2:45 | Break                        | Center Hall B           |                 |
+|   2:15-2:45 | Break                        | 4th floor               |                 |
 |   2:45-3:30 | Pester                       | Room 409                | Rob Pleau       |
 |   3:45-5:15 | Lightning Demos              | Center Hall B           |                 |
 |   6:00-9:00 | Summit Party                 | See conference schedule |                 |
@@ -99,9 +99,9 @@ in a guided, hands-on lab that reinforces the week's concepts.
 |  Schedule   |                 Event                  |   Location    |    Speaker     |
 | ----------: | -------------------------------------- | ------------- | -------------- |
 |   8:00-9:00 | Breakfast                              | Center Hall B |                |
-|   9:00-9:15 | Announcements                          | Center Hall B |                |
-|  9:15-10:15 | PowerShell: Designed for a Messy World | Center Hall B | Jeffrey Snover |
-| 10:15-10:45 | Break                                  | Center Hall B |                |
+|   9:00-9:15 | Announcements                          | Room 404      |                |
+|  9:15-10:15 | PowerShell: Designed for a Messy World | Room 404      | Jeffrey Snover |
+| 10:15-10:45 | Break                                  | 4th floor     |                |
 | 10:45-11:45 | Debugging                              | Room 409      | Steven Judd    |
 | 11:45-12:15 | Rapid Review                           | Room 409      | OnRamp Team    |
 |  12:15-1:15 | Lunch                                  | Center Hall B |                |
